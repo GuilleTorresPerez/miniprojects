@@ -1,0 +1,1 @@
+This is a game in which you have to guess a random number chosen by the pc. The objective is to use the less tries possible
